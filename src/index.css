@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white-col: #fff;
+  --dark-col: #2b2a29;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  align-items: center;
+}
+
+#header {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url("./assets/cactus_bg.jpg") center/cover no-repeat fixed;
+}
+
+/* img {
+  height: 100px;
+  width: 100px;
+} */
+.social-links li a {
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: var(--white-col);
+  padding: 1rem;
+  margin-right: 0.7rem;
+  border-radius: 0.3rem;
+}
+
+.social-links li a:hover {
+  padding: 0.8rem;
+}
+
+#work {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+    url("./assets/flowers.jpg") center/cover no-repeat fixed;
+  color: white;
+  min-height: 100vh;
+}
+#work .title h2:after {
+  background-color: white;
+}
+.title h2 {
+  position: relative;
+}
+
+.title h2:after {
+  position: absolute;
+  content: "";
+  top: 125%;
+  left: 0;
+  width: 5rem;
+  height: 0.2rem;
+  background-color: black;
+}
+
+.work_bottom img {
+  width: 8rem;
+  height: 8rem;
+}
+
+.sample_bottom div {
+  margin: 0.4rem;
+  overflow: hidden;
+  height: 25rem;
+}
+.sample_bottom div img {
+  height: 100%;
+  object-fit: cover;
+}
+.sample_bottom div:hover {
+  transform: scale(0.9);
+  box-shadow: 5px 12px 15px 10px #31313170;
+}
