@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/photographer-portfolio_task/static/css/main.a71cc2c9.css",
+    "main.js": "/photographer-portfolio_task/static/js/main.2b4d1e07.js",
+    "static/media/sample6.jpg": "/photographer-portfolio_task/static/media/sample6.a278bb291d0f24d9a8bc.jpg",
+    "static/media/sample4.jpg": "/photographer-portfolio_task/static/media/sample4.4ade0969b85113b6475c.jpg",
+    "static/media/person.jpg": "/photographer-portfolio_task/static/media/person.81d7c9df86aafc5abc68.jpg",
+    "static/media/sample5.jpg": "/photographer-portfolio_task/static/media/sample5.b669d7e2db19606c8ade.jpg",
+    "static/media/sample2.jpg": "/photographer-portfolio_task/static/media/sample2.cacc5b5cb1504b13c1f6.jpg",
+    "static/media/sample1.jpg": "/photographer-portfolio_task/static/media/sample1.25a2df2602683572ca30.jpg",
+    "static/media/flowers.jpg": "/photographer-portfolio_task/static/media/flowers.eadf1711366c8bfd005c.jpg",
+    "static/media/cactus_bg.jpg": "/photographer-portfolio_task/static/media/cactus_bg.93ee4e32897fb315643c.jpg",
+    "static/media/abstract.jpg": "/photographer-portfolio_task/static/media/abstract.1119721c260ef59d2729.jpg",
+    "static/media/sample3.jpg": "/photographer-portfolio_task/static/media/sample3.2bebf052ffc7888f7f9c.jpg",
+    "static/media/travel.png": "/photographer-portfolio_task/static/media/travel.94c74ef16baa1c0b0709.png",
+    "static/media/wildlife.png": "/photographer-portfolio_task/static/media/wildlife.e66d21aa674bee5a3801.png",
+    "static/media/city.png": "/photographer-portfolio_task/static/media/city.19b2a601ea04deb89bd4.png",
+    "index.html": "/photographer-portfolio_task/index.html",
+    "main.a71cc2c9.css.map": "/photographer-portfolio_task/static/css/main.a71cc2c9.css.map",
+    "main.2b4d1e07.js.map": "/photographer-portfolio_task/static/js/main.2b4d1e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71cc2c9.css",
+    "static/js/main.2b4d1e07.js"
+  ]
+}
